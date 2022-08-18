@@ -157,6 +157,14 @@ h1 {
     7.7781745931px 7.7781745931px 0 #aaaaaa;
 }
 
+.container {
+  width: 600px;
+  height: 100%;
+  margin: auto;
+  padding: 20px;
+  position: relative;
+}
+
 .area-komputer h2 {
   color: blue;
   text-shadow: 3px 3px white;
@@ -183,13 +191,6 @@ h1 {
 
 .player-score {
   margin-top: 5px;
-}
-
-.container {
-  width: 600px;
-  margin: auto;
-  padding: 20px;
-  position: relative;
 }
 
 .area-komputer {
